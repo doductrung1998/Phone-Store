@@ -1,0 +1,80 @@
+export const TabletDevices = [
+    {
+        id : "AP-TB-1",
+        src : "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/i/air10.5_vang_2.jpg",
+        name : "Apple iPad Air 10.5 Wifi 256GB",
+        price : "15.690.000",
+        oldPrice : "17.000.000",
+        link : "",
+        brand : "Apple",
+        memory : "256GB",
+        window : "IOS",
+        number : 10,
+        category : "Tablet" 
+    },
+    {
+        id : "AP-TB-2",
+        src : "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/p/r/pro2018_4_1_1.jpg",
+        name : "Apple iPad Pro 12.9 2018 4G 512GB",
+        price : "27.990.000",
+        oldPrice : "31.990.000",
+        link : "",
+        brand : "Apple",
+        memory : "512GB",
+        window : "IOS",
+        number : 0,
+        category : "Tablet" 
+    },
+    {
+        id : "AP-TB-3",
+        src : "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/s/a/san-pham-apple-1.png",
+        name : "Apple iPad 10.2 2019 Wi-Fi 32GB",
+        price : "7.900.000",
+        oldPrice : "9.500.000",
+        link : "",
+        brand : "Apple",
+        memory : "32GB",
+        window : "IOS",
+        number : 8,
+        category : "Tablet" 
+    },
+    {
+        id : "SS-TB-1",
+        src : "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/1/7/1775157986.jpeg",
+        name : "Samsung Galaxy Tab A 8 Plus 2019",
+        price : "6.450.000",
+        oldPrice : " 6.990.000",
+        link : "",
+        brand : "Samsung",
+        memory : "4GB",
+        window : "Android",
+        number : 5,
+        category : "Mobile" 
+    },
+    {
+        id : "SS-TB-2",
+        src : "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/6/3/637232548612767682_ss-tab-s6-lite-xam-1_2.png",
+        name : "Samsung Galaxy Tab S6 Lite",
+        price : "9.300.000",
+        oldPrice : "9.990.000",
+        link : "",
+        brand : "Samsung",
+        memory : "4GB",
+        window : "Android",
+        number : 0,
+        category : "Mobile" 
+    },
+    {
+        id : "HW-TB-1",
+        src : "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/t/3/t3-10-2017-gold.jpg",
+        name : "Huawei MediaPad T3 10 2017",
+        price : "3.690.000",
+        oldPrice : "3.990.000",
+        link : "",
+        brand : "Huawei",
+        memory : "16GB",
+        window : "Android",
+        number : 8,
+        category : "Mobile" 
+    }
+]

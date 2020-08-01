@@ -1,0 +1,15 @@
+.table{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    display: -webkit-flex;
+    margin: 0 auto;
+    background-color: transparent;
+    border: 0.5px solid rgb(221, 216, 216); 
+    font-family: Sans-serif!important;
+    font-size: 15px;
+    color: #3c3d41;
+    background-color: rgba(238,238,238,.25)
+}

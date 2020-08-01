@@ -1,0 +1,46 @@
+.header-page-site{
+    border: 1px solid rgb(235, 237, 240);
+    background-color: #ffccc7;
+    cursor: context-menu;
+}
+.inline{
+    display: inline;
+}
+.content{
+    min-height: 500px;
+    width: 100%;
+    background-color: #fff;
+    text-align: center;
+    overflow: initial
+}
+.menu{
+    background-color: #ffccc7;
+}
+.row{
+    margin : 10px;
+}
+.carousel{
+    text-align: center;
+    max-height: 300px;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+}
+.content-div{
+    background-color: rgba(238,238,238,.25);
+    min-height: 500px;
+}
+.layout{
+    width: 100%;
+    background-color: white;
+}
+
+.img-car{
+    height: 300px;
+    width: 100%;
+    transition: transform 300ms ease-in;
+    transform: scale(1);    
+}
+.img-car:hover {
+    transform: scale(1.1);
+}
