@@ -223,4 +223,18 @@ export const MobileDevices = [
     number: 10,
     category: "Mobile",
   },
+    {
+    id: "AP-7",
+    src:
+      "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone_xr_64gb.png",
+    name: "Apple iPhone XR 64GB",
+    price: "17.000.000",
+    oldPrice: "",
+    link: "",
+    brand: "Apple",
+    memory: "64GB",
+    window: "IOS",
+    number: 10,
+    category: "Mobile",
+  },
 ];
